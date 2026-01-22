@@ -183,9 +183,9 @@ Example;
 
 - If the author is unknown, begin the reference with the title of work.
 
-- URLs: Do not create shortened versions of URLs via third-party services such as TinyURL. A DOI or other stable identifier, if available, is always be preferred
+- Do not create shortened versions of URLs. Use a DOI or other stable identifier.
 
-- First author names in bibliography: For authors whose cultural naming conventions put the family name first—such as those from many Asian or other traditions—retain the original name order, and do not invert it in the bibliography or reference list.
+- For authors whose cultural naming conventions put the family name first—such as those from many Asian or other traditions—retain the original name order, and do not invert it in the bibliography or reference list.
 
 #### Create a hanging indent using Microsoft Word
 
@@ -214,25 +214,24 @@ The second line of each bibliography entry has a hanging indent.
 
 ###### start-subtype-content
 
-{.centre-align}**Bibliography**{/.centre-align}
+{.centre-align} **Bibliography** {/.centre-align}
 
-{.hanging-indent}
-Bagley,Benjamin. “Loving Someone in Particular,” *Ethics* 125, no. 2 (January 2015): 477–507.
+> {.hanging-indent} Bagley,Benjamin. “Loving Someone in Particular,” *Ethics* 125, no. 2 (January 2015): 477–507. {/.hanging-indent}
 
-Fellini, Federico. “Fountain Scene.” *La Dolce Vita*. Australia: Umbrella Entertainment, 2005. DVD.
+> {.hanging-indent} Fellini, Federico. “Fountain Scene.” *La Dolce Vita*. Australia: Umbrella Entertainment, 2005. DVD. {/.hanging-indent}
 
-Gorman, Alyx. "A Movement not a Moment: Indigenous Design in the Spotlight at Australian Fashion Week," *Guardian News,* June 4, 2021. https<nolink>://www.theguardian.com/fashion/2021/jun/05/a-movement-not-a-moment-indigenous-design-in-the-spotlight-at-australian-fashion-week.
+> {.hanging-indent} Gorman, Alyx. "A Movement not a Moment: Indigenous Design in the Spotlight at Australian Fashion Week," *Guardian News,* June 4, 2021. https<nolink>://www.theguardian.com/fashion/2021/jun/05/a-movement-not-a-moment-indigenous-design-in-the-spotlight-at-australian-fashion-week. {/.hanging-indent}
 
-Koenig, Sarah. “Season One Episode 01: The Alibi.” October 3, 2014. In *Serial*. Produced by Sarah Koenig, Julie Snyder & Dana Chivvis. Podcast, MP3 audio. 52:00. https<nolink>://serialpodcast.org/season-one/1/the-alibi.
+> {.hanging-indent} Koenig, Sarah. “Season One Episode 01: The Alibi.” October 3, 2014. In *Serial*. Produced by Sarah Koenig, Julie Snyder & Dana Chivvis. Podcast, MP3 audio. 52:00. https<nolink>://serialpodcast.org/season-one/1/the-alibi. {/.hanging-indent}
 
-McCarthy, Christine. “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25,10.1177/1206331205275020.
+> {.hanging-indent} McCarthy, Christine. “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25,10.1177/1206331205275020. {/.hanging-indent}
 
-Melton, Paula. "Whole-Building Life-Cycle Assessment: Taking the Measure of a Green Building." Building Green, 2013. https<nolink>://www.buildinggreen.com/feature/whole-building-life-cycle-assessment-taking-measure-green-building.
+> {.hanging-indent} Melton, Paula. "Whole-Building Life-Cycle Assessment: Taking the Measure of a Green Building." Building Green, 2013. https<nolink>://www.buildinggreen.com/feature/whole-building-life-cycle-assessment-taking-measure-green-building. {/.hanging-indent}
 
-Oranje, Mark, and Tuna Taşan-Kok.*From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical Challenges. Routledge. 2017.
+> {.hanging-indent} Oranje, Mark, and Tuna Taşan-Kok.*From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical Challenges. Routledge. 2017. {/.hanging-indent}
 
-Wikipedia. "Wikipedia: List of Controversial Issues." Wikipedia, last modified April 2, 2021, 17:19. https<nolink>://en.wikipedia.org/wiki/Wikipedia:List\_of\_controversial\_issues.
-{/.hanging-indent}
+> {.hanging-indent} Wikipedia. "Wikipedia: List of Controversial Issues." Wikipedia, last modified April 2, 2021, 17:19. https<nolink>://en.wikipedia.org/wiki/Wikipedia:List\_of\_controversial\_issues. {/.hanging-indent}
+
 
 ###### end-subtype-content
 
@@ -292,7 +291,7 @@ List authors in the order in which they appear in the source. Include all author
 
 ##### Example
 
-Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity*. Duke University Press, 2008. 
+> {.hanging-indent}Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity*. Duke University Press, 2008.{/.hanging-indent} 
 
 #### More than six authors
 
@@ -442,7 +441,7 @@ Include the chapter author, the chapter title in quotation marks, as well as the
 
 ##### Note example
 
-> {.footnote-indent}1. Alistair Baldwin, "Hippotherapy," in *Growing Up Disabled in Australia,* ed. Carly Findlay (Black Inc., 2021), 52. {/.footnote-indent}
+> {.footnote-indent}1. Alistair Baldwin, "Hippotherapy," in *Growing Up Disabled in Australia,* ed. Carly Findlay (Black Inc, 2021), 52. {/.footnote-indent}
 
 ##### Shortened note example
 
@@ -543,7 +542,7 @@ Books may be re-issued in a different format or with the addition of new materia
 
 ##### Note rule
 
-{.footnote-indent}Note number. Author’s Full Name, *Title: Subtitle* (First Edition. Publisher’s Name, Year of Publication; Modern Edition Place of Publication: Publisher’s Name, Year of Publication), Page or Pages. Indicate the edition to which page numbers refer. {/.footnote-indent}
+{.footnote-indent}Note number. Author’s Full Name, *Title: Subtitle* (First Edition. Publisher’s Name, Year of Publication; Modern Edition: Publisher’s Name, Year of Publication), Page or Pages. Indicate the edition to which page numbers refer. {/.footnote-indent}
 
 ##### Note example
 
@@ -555,7 +554,7 @@ Books may be re-issued in a different format or with the addition of new materia
 
 ##### Bibliography rule
 
-{.hanging-indent}Author’s Family Name, Author’s Given Name. *Title: Subtitle*. First Edition Place of Publication: Publisher’s Name, Year of Publication. Reprinted details. Modern Edition Place of Publication: Publisher’s Name, Year of Publication. {/.hanging-indent}
+{.hanging-indent}Author’s Family Name, Author’s Given Name. *Title: Subtitle*. First Edition Place of Publication (if applicable): Publisher’s Name, Year of Publication. Reprinted details. Modern Edition Place of Publication: Publisher’s Name, Year of Publication. {/.hanging-indent}
 
 ##### Bibliography example
 
@@ -2016,13 +2015,9 @@ The Chicago Manual of Style advises that the use of chatbots must be disclosed a
 
 If an AI conversation is included in a bibliography or reference list, it should be cited under the name of the publisher or developer, not under the tool’s name, and must include a publicly accessible URL. 
 
-If there is no shareable link, you should include details about the tool used in the text, for example:  
- 
-> {.hanging-indent} The following recommendations for implementing accessible design practices were generated by Claude (Anthropic) on 9th January 2026 in response to the prompt "list five key principles for creating accessible web interfaces for users with visual impairments." {/.hanging-indent}
+If the content is not shareable, include the prompt used and the output generated in the text or footnote. Include the general URL for the tool and a note about how the content was used. Cited in the text example:
 
-If the content is not shareable, include the prompt used and the output generated. Include the general URL for the tool and a note about how the content was used. For example:
-
-> {.hanging-indent} "Response to "What are the characteristics of Bauhaus architecture?," Claude 3.5 Sonnet, Anthropic, December 15, 2025, lightly edited for clarity" {/.hanging-indent}
+"The following list of key ärtists from the period was generated on January 22, 2025, by Claude Sonnet 4.5.
 
 **Chicago A (Notes-Bibliography) style** uses numbered in-text citations that match the corresponding footnote or endnote entry.
 
@@ -2045,6 +2040,18 @@ If the content is not shareable, include the prompt used and the output generate
 ##### Example
 
 > {.hanging-indent} 1. Response to "What are the characteristics of Bauhaus architecture?," Claude 3.5 Sonnet, Anthropic, December 15, 2025, lightly edited for clarity.{/.hanging-indent}
+>
+#### Bibliography example 
+
+Generally GenAI output is not included in the bibliography.If it is included, you must provide a shareable link.
+
+##### Rule
+
+> {.hanging-indent} Developer. Response to "Prompt." Name of Artificial Intelligence Tool Version Number, Month Day, Year. URL to transcript.{/.hanging-indent}
+
+##### Example
+
+> {.hanging-indent} Claude. Response to "The role of oral tradition in preserving Indigenous narratives and cultural identity." Claude Sonnet 4.5, January 22, 2025. https://claude.ai/share/6c4d9e1f8a23. {/.hanging-indent}
 
 #### How to reference AI-generated images
 
