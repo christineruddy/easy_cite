@@ -252,7 +252,7 @@ McCarthy, Christine. “Toward a Definition of Interiority.” *Space & Culture*
 
 Melton, Paula. "Whole-Building Life-Cycle Assessment: Taking the Measure of a Green Building." Building Green, 2013. https<nolink>://www.buildinggreen.com/feature/whole-building-life-cycle-assessment-taking-measure-green-building.
 
-Oranje, Mark, and Tuna Taşan-Kok.*From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical Challenges. Routledge. 2017.
+Oranje, Mark, and Tuna Taşan-Kok. *From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical Challenges*. Routledge. 2017.
 
 Wikipedia. "Wikipedia: List of Controversial Issues." Wikipedia, last modified April 2, 2021, 17:19. https<nolink>://en.wikipedia.org/wiki/Wikipedia:List\_of\_controversial\_issues.
 {/.hanging-indent}
@@ -474,7 +474,7 @@ Include the chapter author, the chapter title in quotation marks, as well as the
 
 #### Bibliography rule
 
-{.hanging-indent}Chapter Author’s Family Name, Chapter Author’s Given Name. “Chapter Title.” In *Title: Subtitle*, edited by Editor’s Full Name. Publisher’s Name. Year of Publication, {/.hanging-indent}
+{.hanging-indent}Chapter Author’s Family Name, Chapter Author’s Given Name. “Chapter Title.” In *Title: Subtitle*, edited by Editor’s Full Name. Publisher’s Name. Year of Publication. {/.hanging-indent}
 
 ##### Bibliography example
 
@@ -1296,7 +1296,7 @@ Unpublished scores are cited and referenced like unpublished manuscripts.
 
 Enclose the title of the page in quotation marks. If there is no discernible title, create a short description of the website or webpage instead. The words *website* or *webpage* in parenthesis can be included after the title if the source is otherwise unclear.
 
-Include a publication date or date of revision if this is available. However,it might be difficult to find a publication or revision date on websites. If this is the case, leave out the publication date as in the Tate Modern example below. For frequently updated webpages, you may include a last modified date with a time stamp, as in the Wikipedia example.
+Include a publication date, date of revision or update if this is available. However,it might be difficult to find a publication or revision date on websites. If this is the case, leave out the publication date as in the Tate Modern example below. For frequently updated webpages, you may include a last modified date with a time stamp, as in the Wikipedia example.
 
 #### Note rule
 
