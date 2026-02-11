@@ -556,7 +556,7 @@ When the organisation-as-author and publisher are the same entity, include it in
 
 {.hanging-indent}Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book.* Edition. Publisher's Name. {/.hanging-indent}
 
-> {.hanging-indent}Beresford, Quentin, and Gary Partington. 2012. Reform and Resistance in Aboriginal Education: The Australian Experience. Rev. ed. University of Western Australia Press. {/.hanging-indent}
+> {.hanging-indent}Beresford, Quentin, and Gary Partington. 2012. *Reform and Resistance in Aboriginal Education: The Australian Experience*. Rev. ed. University of Western Australia Press. {/.hanging-indent}
 > {.hanging-indent}Lester, Paul Martin. 2020. *Visual Communication: Images with Messages.* 8th ed. ex Publishing. {/.hanging-indent}
 
 ###### end-subtype-content
